@@ -1,5 +1,5 @@
 # ARDEMIS
-## AI-Driven Approach to Detect Equivalent Elements within Domain Models
+AI-Driven Approach to Detect Equivalent Elements within Domain Models
 
 Required resources are:
 - Java runtime environment 1.8 (or greater)
