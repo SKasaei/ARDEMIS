@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ASCII"?>
+<OO:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:OO="OO" xmi:id="_CzA28CaQEe-GG7iWD89MAw" name="SDG">
+  <annotations xsi:type="OO:Class" xmi:id="_CzA28SaQEe-GG7iWD89MAw" name="User"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA28iaQEe-GG7iWD89MAw" name="Shipper"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA28yaQEe-GG7iWD89MAw" name="Admin"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA29CaQEe-GG7iWD89MAw" name="Location"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA29SaQEe-GG7iWD89MAw" name="Client"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA29iaQEe-GG7iWD89MAw" name="Company"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA29yaQEe-GG7iWD89MAw" name="Consignment"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2-CaQEe-GG7iWD89MAw" name="Order"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2-SaQEe-GG7iWD89MAw" name="Receiver"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2-iaQEe-GG7iWD89MAw" name="Sender"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2-yaQEe-GG7iWD89MAw" name="Package"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2_CaQEe-GG7iWD89MAw" name="Transaction"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2_SaQEe-GG7iWD89MAw" name="Wallet "/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2_iaQEe-GG7iWD89MAw" name="Report"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA2_yaQEe-GG7iWD89MAw" name="Station"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3ACaQEe-GG7iWD89MAw" name="Employee"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3ASaQEe-GG7iWD89MAw" name="Worker"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3AiaQEe-GG7iWD89MAw" name="Registration"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3AyaQEe-GG7iWD89MAw" name="Warehouse"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3BCaQEe-GG7iWD89MAw" name="Massage"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3BSaQEe-GG7iWD89MAw" name="Recipient"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3BiaQEe-GG7iWD89MAw" name="Transport specialist"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3ByaQEe-GG7iWD89MAw" name="Company officials"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3CCaQEe-GG7iWD89MAw" name="Stand"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3CSaQEe-GG7iWD89MAw" name="Fingerprint scanner"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3CiaQEe-GG7iWD89MAw" name="Consignment delivery"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3CyaQEe-GG7iWD89MAw" name="Advertisement"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3DCaQEe-GG7iWD89MAw" name="Vehicle"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3DSaQEe-GG7iWD89MAw" name="Registered user"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3DiaQEe-GG7iWD89MAw" name="Inbox"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3DyaQEe-GG7iWD89MAw" name="Shelf"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3ECaQEe-GG7iWD89MAw" name="Locker"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3ESaQEe-GG7iWD89MAw" name="Courier"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3EiaQEe-GG7iWD89MAw" name="Feedback"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3EyaQEe-GG7iWD89MAw" name="Delivery info"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3FCaQEe-GG7iWD89MAw" name="Delivery company info"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3FSaQEe-GG7iWD89MAw" name="Delivery company"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3FiaQEe-GG7iWD89MAw" name="Support system"/>
+  <annotations xsi:type="OO:Class" xmi:id="_CzA3FyaQEe-GG7iWD89MAw" name="Suspension info"/>
+</OO:Package>

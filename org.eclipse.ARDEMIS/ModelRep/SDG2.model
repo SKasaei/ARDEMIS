@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<OO:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:OO="OO" xmi:id="_kIg1gCQ_Ee-MLY4eSNdmxA" name="SDG Team 2">
+  <contents xsi:type="OO:Class" xmi:id="_E5A3ICRAEe-MLY4eSNdmxA" name="User"/>
+  <contents xsi:type="OO:Class" xmi:id="_E92T0CRAEe-MLY4eSNdmxA" name="Client"/>
+  <contents xsi:type="OO:Class" xmi:id="_pDapQCQ_Ee-MLY4eSNdmxA" name="Shipper"/>
+  <contents xsi:type="OO:Class" xmi:id="_Eucl4CRAEe-MLY4eSNdmxA" name="Company"/>
+  <contents xsi:type="OO:Class" xmi:id="_qhOrECQ_Ee-MLY4eSNdmxA" name="Massage"/>
+  <contents xsi:type="OO:Class" xmi:id="_q9zSUCQ_Ee-MLY4eSNdmxA" name="Consignment"/>
+  <contents xsi:type="OO:Class" xmi:id="_q3JQsCQ_Ee-MLY4eSNdmxA" name="Recipient"/>
+  <contents xsi:type="OO:Class" xmi:id="_rEAA8CQ_Ee-MLY4eSNdmxA" name="Transport specialist"/>
+  <contents xsi:type="OO:Class" xmi:id="_rKrQsCQ_Ee-MLY4eSNdmxA" name="Company officials"/>
+  <contents xsi:type="OO:Class" xmi:id="_D1lrQCRAEe-MLY4eSNdmxA" name="Stand"/>
+  <contents xsi:type="OO:Class" xmi:id="_q9DSkCY7Ee-5SrU0ggx2WA" name="Fingerprint scanner"/>
+  <contents xsi:type="OO:Class" xmi:id="_rDgf4CY7Ee-5SrU0ggx2WA" name="Consignment delivery"/>
+</OO:Package>
